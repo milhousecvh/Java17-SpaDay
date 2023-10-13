@@ -24,3 +24,12 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+form {
+    align: center;
+}
+
+.error {
+    color: darkred;
+    background: white;
+}
